@@ -1,2 +1,2 @@
-# stisla-admin-template
-Free Bootstrap 4 Admin Template
+# stisla-admin
+Bootstrap 4 Admin Template
