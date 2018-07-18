@@ -1,4 +1,4 @@
-# Stisla Admin Template
+# Free Bootstrap Admin Template
 Stisla Admin Template is a responsive HTML5 admin template based on Bootstrap 4. Stisla will make it easier for you to create your own admin interface. Read more on https://stisla.multinity.com/
 
 ![](https://stisla.multinity.com/landing/stisla-preview.png)
